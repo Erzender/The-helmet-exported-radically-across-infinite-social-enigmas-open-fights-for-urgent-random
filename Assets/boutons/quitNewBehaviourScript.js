@@ -1,0 +1,4 @@
+﻿#pragma strict
+
+
+Application.Quit();
