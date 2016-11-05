@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random.CSharp", "The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random.CSharp.csproj", "{7C3B872E-D648-67EC-9731-480392F21870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random.CSharp.Editor", "The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random.CSharp.Editor.csproj", "{6E960D46-0B53-C6E9-A786-24EC79B228F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3B872E-D648-67EC-9731-480392F21870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3B872E-D648-67EC-9731-480392F21870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3B872E-D648-67EC-9731-480392F21870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3B872E-D648-67EC-9731-480392F21870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E960D46-0B53-C6E9-A786-24EC79B228F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E960D46-0B53-C6E9-A786-24EC79B228F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E960D46-0B53-C6E9-A786-24EC79B228F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E960D46-0B53-C6E9-A786-24EC79B228F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

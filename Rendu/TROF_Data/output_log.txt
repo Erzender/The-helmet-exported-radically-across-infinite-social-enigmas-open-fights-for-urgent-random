@@ -1,0 +1,44 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1071 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GETween.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+- Completed reload, in  0.224 seconds
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.067019 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f00 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.663906 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.197286 ms (FindLiveObjects: 0.012924 ms CreateObjectMapping: 0.015585 ms MarkObjects: 0.150910 ms  DeleteObjects: 0.017485 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.711219 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.312465 ms (FindLiveObjects: 0.026608 ms CreateObjectMapping: 0.020907 ms MarkObjects: 0.191584 ms  DeleteObjects: 0.072984 ms)
+
