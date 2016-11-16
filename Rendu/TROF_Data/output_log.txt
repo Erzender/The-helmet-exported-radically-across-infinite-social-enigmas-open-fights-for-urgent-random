@@ -20,25 +20,49 @@ Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-s
 Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GETween.dll into Unity Child Domain
 Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
 Loading G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
-- Completed reload, in  0.224 seconds
+- Completed reload, in  0.078 seconds
 Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: G:\Unity\TROF\The-helmet-exported-radically-across-infinite-social-enigmas-open-fights-for-urgent-random\Rendu\TROF_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.067019 ms
+UnloadTime: 0.843123 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1f00 -> priority: 1 
+  Thread -> id: 10e4 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.663906 ms
+UnloadTime: 9.834290 ms
 
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 265.
-Total: 0.197286 ms (FindLiveObjects: 0.012924 ms CreateObjectMapping: 0.015585 ms MarkObjects: 0.150910 ms  DeleteObjects: 0.017485 ms)
+Total: 0.340594 ms (FindLiveObjects: 0.031170 ms CreateObjectMapping: 0.044855 ms MarkObjects: 0.230357 ms  DeleteObjects: 0.033071 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.711219 ms
+UnloadTime: 1.418637 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 277.
-Total: 0.312465 ms (FindLiveObjects: 0.026608 ms CreateObjectMapping: 0.020907 ms MarkObjects: 0.191584 ms  DeleteObjects: 0.072984 ms)
+Total: 0.827158 ms (FindLiveObjects: 0.053978 ms CreateObjectMapping: 0.058539 ms MarkObjects: 0.481622 ms  DeleteObjects: 0.231878 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.091727 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.665984 ms (FindLiveObjects: 0.045995 ms CreateObjectMapping: 0.048276 ms MarkObjects: 0.521535 ms  DeleteObjects: 0.049416 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.847802 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.843503 ms (FindLiveObjects: 0.057019 ms CreateObjectMapping: 0.054738 ms MarkObjects: 0.499108 ms  DeleteObjects: 0.231117 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.819936 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.471358 ms (FindLiveObjects: 0.041814 ms CreateObjectMapping: 0.041814 ms MarkObjects: 0.348577 ms  DeleteObjects: 0.038012 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.453229 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.830579 ms (FindLiveObjects: 0.051317 ms CreateObjectMapping: 0.057779 ms MarkObjects: 0.502529 ms  DeleteObjects: 0.217433 ms)
 
